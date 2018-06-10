@@ -1,5 +1,5 @@
 {
-  "name": "confiq",
+  "name": "pickconfig",
   "version": "0.0.4",
   "description": "Configurations for nodejs apps",
   "main": "lib/index.js",
@@ -11,11 +11,11 @@
   "keywords": [
     "config"
   ],
-  "author": "Adheesh Bhatia <adheeshbhatia@gmail.com>",
+  "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/adhbh/confiq.git"
+    "url": "https://github.com/sach2211/pickconfig"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
